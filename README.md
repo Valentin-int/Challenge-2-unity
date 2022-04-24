@@ -1,0 +1,2 @@
+# Challenge-2-unity
+Utilisez vos compétences en génération de tableaux et de nombres aléatoires pour programmer ce défi où des balles tombent au hasard du ciel et vous devez envoyer votre chien pour les attraper avant qu'elles ne touchent le sol. Pour relever ce défi, vous devrez vous assurer que vos variables sont correctement affectées, que vos instructions if sont correctement programmées, que vos collisions sont parfaitement détectées et que les objets sont générés de manière aléatoire.
